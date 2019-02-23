@@ -1,4 +1,8 @@
-# Kalendae - A framework agnostic javascript date picker
+# KalendaeSASS - Add SASS on top of Kaleande for easy customizing.
+
+WIP
+
+## Kalendae - A framework agnostic javascript date picker
 
 Kalendae is an attempt to do something that nobody has yet been able to do: make a date picker that doesn't suck.  Kalendae provides the following features:
 
